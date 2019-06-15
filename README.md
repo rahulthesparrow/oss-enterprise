@@ -2,6 +2,12 @@
 
 You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
 
+What is the purpose of this repository?
+Who should someone contact if they have questions?
+How should someone make contact if they have questions?
+What are the first steps to getting started open sourcing a project?
+How does this repository relate to other projects and business goals?
+
 ## What should be open source?
 
 It's easier to answer this question in terms of what should **not** be open sourced:
